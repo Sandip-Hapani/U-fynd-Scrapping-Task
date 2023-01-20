@@ -1,0 +1,23 @@
+{
+    "Hotel Name": "Kempinski Hotel Bristol Berlin",
+    "Address": "Kurfürstendamm 27, Charlottenburg-Wilmersdorf, 10719 Berlin, Germany",
+    "Stars": 0,
+    "Ratings": "8.3",
+    "Total Reviews": "1401",
+    "Description": "This 5-star hotel on Berlin’s Kurfürstendamm shopping street offers elegant rooms, an indoor pool and great public transport links. It is 600 metres from the Gedächtniskirche Church and Berlin Zoo.\n\nKempinski Hotel Bristol Berlin offers air-conditioned rooms with large windows, modern bathrooms and international TV channels. Bathrobes are provided. Free WiFi is available in all areas and high-speed WiFi access can be booked at an additional cost.\n\nGourmet cuisine is served in the popular Kempinski Grill. Reinhard's brasserie offer light cuisine and a terrace overlooking Kurfürstendamm. Guests can enjoy drinks in the Gobelin Halle lounge or in the Bristol Bar.\n\nKempinski Bristol Berlin’s spa includes a sauna, steam room and gym. Massages and beauty treatments can also be booked here. The hotel's business centre can be used free of charge.\n\nUhlandstraße Underground Station is just outside the Kempinski’s front door. The KaDeWe shopping mall is 2 stops away.",
+    "Room Categories": [
+        "Suite with Balcony",
+        "Classic Double or Twin Room",
+        "Superior Double or Twin Room",
+        "Deluxe Double Room",
+        "Deluxe Business Suite",
+        "Junior Suite",
+        "Family Room"
+    ],
+    "Alternative Options": {
+        "Hotel Adlon Kempinski Berlin": "http://www.booking.com/hotel/de/adlon-kempinski-berlin.en-gb.html?label=gen173nr-15CAsoO0IWa2VtcGluc2tpYnJpc3RvbGJlcmxpbkguYgVub3JlZmg7iAEBmAEuuAEEyAEE2AED6AEB;sid=76794d5ed9a9673c09a746b2d3e1a5bd;dcid=4;fs=1;shid=60664;",
+        "Grand Hyatt Berlin": "http://www.booking.com/hotel/de/grand-hyatt-berlin.en-gb.html?label=gen173nr-15CAsoO0IWa2VtcGluc2tpYnJpc3RvbGJlcmxpbkguYgVub3JlZmg7iAEBmAEuuAEEyAEE2AED6AEB;sid=76794d5ed9a9673c09a746b2d3e1a5bd;dcid=4;fs=1;shid=60664;",
+        "Sofitel Berlin Kurfürstendamm": "http://www.booking.com/hotel/de/sofitelhotelberlin-berlin.en-gb.html?label=gen173nr-15CAsoO0IWa2VtcGluc2tpYnJpc3RvbGJlcmxpbkguYgVub3JlZmg7iAEBmAEuuAEEyAEE2AED6AEB;sid=76794d5ed9a9673c09a746b2d3e1a5bd;dcid=4;fs=1;shid=60664;",
+        "Hilton Berlin": "http://www.booking.com/hotel/de/hilton-berlin.en-gb.html?label=gen173nr-15CAsoO0IWa2VtcGluc2tpYnJpc3RvbGJlcmxpbkguYgVub3JlZmg7iAEBmAEuuAEEyAEE2AED6AEB;sid=76794d5ed9a9673c09a746b2d3e1a5bd;dcid=4;fs=1;shid=60664;"
+    }
+}
