@@ -4,7 +4,7 @@ This repository contains a Booking.com hotel scraping task completed for a U:Fyn
 
 ## Project Overview
 
-- `Static/booking-scrape.py`: Parses a saved Booking.com HTML page and extracts hotel details into `Booking-Extracted-Data.json`.
+- `Static/booking-scrape.py`: Parses a saved Booking.com HTML page and extracts hotel details into `Booking-Extracted-Data.json`. [Works for online same sort of pages]
 - `LiveWeb/booking-scrape.py`: Uses Selenium + Chrome WebDriver to scrape hotel listings from Booking.com in real time and export the results to `Booking-Extracted-Data.json`.
 - `Static/GivenData/`: Contains the downloaded sample Booking.com hotel page used for static parsing.
 - `ApproachDiagram/`: Includes a diagram of the scraping approach.
